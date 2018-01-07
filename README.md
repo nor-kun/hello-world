@@ -1,2 +1,3 @@
 # hello-world
-my first project
+
+HELLO EVERYONE!  This is Noraset coding! 
